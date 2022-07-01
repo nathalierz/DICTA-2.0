@@ -1,0 +1,15 @@
+gensim
+pandas
+numpy
+hermetrics
+spacy
+scrapy
+nltk
+psycopg2
+matplotlib
+plotly
+streamlit
+pillow
+htbuilder
+psycopg2-binary
+python-terrier
