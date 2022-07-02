@@ -46,7 +46,7 @@ Para realizar realizar este paso tendremos que restaurar el backup del archivo `
 
 Ingresamos la contraseña que nos solicita.
 
-Para realizar la restauración necesitaremos importar el archivo donde se encuentra guardada la base de datos con el nombre `pt_larias`(se llamó así debido a que cuando se creó la base de datos la aplicación aún no tenía un nombre asignado). Antes de acceder a la consola de postgres se eingresa el siguiente comando donde incluye el archivo desde donde se crea la base de datos y hace la importación de los datos.
+Para realizar la restauración necesitaremos importar el archivo donde se encuentra guardada la base de datos con el nombre `pt_larias`(se llamó así debido a que cuando se creó la base de datos la aplicación aún no tenía un nombre asignado). Antes de acceder a la consola de postgres se ingresa el siguiente comando donde incluye el archivo desde donde se crea la base de datos y hace la importación de los datos.
 
     $ psql < dicta_database_v2.sql
 
