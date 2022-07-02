@@ -5,7 +5,7 @@ Este documento contiene las instrucciones para la ejecución del experimento rea
 
 Se requiere tener instaladas las dependemcias que utiliza la aplicación DICTA
 
-### Ejecuación de programa
+### Ejecución de programa
 
 Solo se requiere la ejecución del archivo experiment_models_ri.py, el cual mediante el archivo datos_v2.xlsx recupera infromación para la obtención de resultados del experimento.
 
